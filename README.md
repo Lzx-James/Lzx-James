@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Lzx-James.readme)
 
+<div align="right"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lzx-James&theme=xcode" /> </div>
+
 ![info](https://github-readme-stats.vercel.app/api?username=Lzx-James&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
