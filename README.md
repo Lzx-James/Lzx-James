@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Lzx-James&show_icons=true&theme=tokyonight" /> 
-  <div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" /> </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" align="right"/> 
 
 </div>
 
