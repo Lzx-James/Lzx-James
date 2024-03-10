@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lzx-James&theme=xcode" /> </div>
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Lzx-James&show_icons=true&theme=tokyonight" width="1000" height=auto/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Lzx-James&show_icons=true&theme=tokyonight" /> 
 </div>
 
