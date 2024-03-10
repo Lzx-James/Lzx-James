@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Lzx-James&show_icons=true&theme=tokyonight" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" align="right"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" height = auto align="right"/> 
 
 </div>
 
