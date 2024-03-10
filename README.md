@@ -1,5 +1,6 @@
-### This is James 👋
-![115004111_p0_master1200](https://github.com/Lzx-James/Lzx-James/assets/77963915/8e12428f-1c96-47a6-8d6f-fa1e2170b2c0)
+### Welcome to James' Github 👋
+![Uploading 112626926_p0_master1200.jpg…]()
+
 <!--
 **Lzx-James/Lzx-James** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
