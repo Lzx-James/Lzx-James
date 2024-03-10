@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### This is James 👋
+![115004111_p0_master1200](https://github.com/Lzx-James/Lzx-James/assets/77963915/8e12428f-1c96-47a6-8d6f-fa1e2170b2c0)
 <!--
 **Lzx-James/Lzx-James** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=Lzx-James.readme)
 
 ![info](https://github-readme-stats.vercel.app/api?username=Lzx-James&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
